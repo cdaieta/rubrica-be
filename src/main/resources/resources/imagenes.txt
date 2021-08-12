@@ -1,0 +1,4 @@
+COMPRAS=logo_compras.png
+DIARIO=logo_diario.png
+MAYOR=logo_mayor.png
+VENTAS=logo_ventas.png
